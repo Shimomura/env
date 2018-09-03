@@ -89,7 +89,7 @@ Plug 'nathanaelkane/vim-indent-guides'
 " vimを立ち上げたときに、自動的にvim-indent-guidesをオンにする
 let g:indent_guides_enable_on_vim_startup = 1
 
-
+Plug 'scrooloose/nerdtree'
 
 
 call plug#end()
